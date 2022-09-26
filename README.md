@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @harihp29 
-- 👀 I’m interested in Data Science, Machine Learning  
-- 🌱 I’m currently learning Data science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in honing my skills in Data Science and Machine Learning  
+- 🌱 I’m a Data science aspirant
+- 💞️ I’m looking to collaborate 
+- 📫 How to reach me on my github profile harihp29
 
 <!---
 harihp29/harihp29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
